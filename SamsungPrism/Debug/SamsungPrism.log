@@ -1,0 +1,4 @@
+﻿  SamsungPrism.cpp
+C:\Users\adith\source\repos\SamsungPrism\SamsungPrism\SamsungPrism.cpp(76,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\adith\source\repos\SamsungPrism\SamsungPrism\SamsungPrism.cpp(179,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SamsungPrism.vcxproj -> C:\Users\adith\source\repos\SamsungPrism\Debug\SamsungPrism.exe
